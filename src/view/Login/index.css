@@ -1,0 +1,13 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+.login .login-form {
+  width: 70vw;
+}
+.login .login-form .login-submit {
+  margin: 0 auto;
+}
